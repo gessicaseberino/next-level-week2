@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="design do projeto" width="650px" src="images_finalproject/pc.png" style="max-width:100%;">
+</p>
+
+
 <h2> :page_with_curl: Sobre a aplicação </h2>
 
 <p align="justify"> Projeto desenvolvido durante os dias 3 a 9 de Agosto de 2020 com a trilha Discovery do evento Next Level Week 2 da Rocketseat e que teve como finalidade introduzir os conceitos de desenvolvimento web. Para isso, durante essa semana foi proposto o desenvolvimento da plataforma Proffy com o intuito de auxiliar na conexão entre os alunos e os professores. Esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas. </p>
